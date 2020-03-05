@@ -1,0 +1,5 @@
+*.pyc
+README
+.DS_Store
+build/
+test.py
